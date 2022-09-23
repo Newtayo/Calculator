@@ -1,0 +1,12 @@
+11
+68C:\Users\Dell\Documents\Old System\calculator\dist\index.672d4772.js133084033702257947 0
+50C:\Users\Dell\Documents\Old System\calculator\dist133084033702373300 1
+73C:\Users\Dell\Documents\Old System\calculator\dist\index.3a01df49.css.map133084033702332369 0
+56C:\Users\Dell\Documents\Old System\calculator\index.html133018283759485277 0
+69C:\Users\Dell\Documents\Old System\calculator\dist\index.3a01df49.css133084033702065873 0
+73C:\Users\Dell\Documents\Old System\calculator\dist\calculator.3464ddca.js133084033702212728 0
+55C:\Users\Dell\Documents\Old System\calculator\script.js133018290054456595 0
+55C:\Users\Dell\Documents\Old System\calculator\style.css133018266972576161 0
+77C:\Users\Dell\Documents\Old System\calculator\dist\calculator.3464ddca.js.map133084033702332369 0
+72C:\Users\Dell\Documents\Old System\calculator\dist\index.672d4772.js.map133084033702332369 0
+61C:\Users\Dell\Documents\Old System\calculator\dist\index.html133084033702296476 0
